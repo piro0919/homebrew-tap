@@ -1,6 +1,6 @@
 cask "galopen" do
-  version "0.6.8"
-  sha256 "1b0d194dfb29d1abc6b39568e6c232ca3fcdd9e8d49e56716dedbbce1650f459"
+  version "0.7.0"
+  sha256 "35c5a577fe8db64c3f3b315a9886451d30ad110ae74d5303f86fd22cc4e285cc"
 
   url "https://github.com/piro0919/galopen/releases/download/v#{version}/Galopen_#{version}_aarch64.dmg",
       verified: "github.com/piro0919/galopen/"
@@ -15,7 +15,7 @@ cask "galopen" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Galopen.app"
 

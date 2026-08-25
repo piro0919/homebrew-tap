@@ -1,6 +1,6 @@
 cask "mekuri" do
-  version "0.2.0"
-  sha256 "d2fa0bf1bfe1bf46ed94783a18b27ab589678a853f461ac2f2a38e79148d7672"
+  version "0.3.0"
+  sha256 "4338f487b484401b3f6059f9b0a8307c46aa36ff0049f948e64c5789405b7eba"
 
   url "https://github.com/piro0919/mekuri/releases/download/v#{version}/Mekuri_#{version}_aarch64.dmg",
       verified: "github.com/piro0919/mekuri/"
@@ -15,7 +15,7 @@ cask "mekuri" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Mekuri.app"
 

@@ -1,6 +1,6 @@
 cask "macopy" do
-  version "0.3.0"
-  sha256 "7e0bdd31f46ccb576608ea861542aca163c76a0060aca3d9d81cb2f1b92dc673"
+  version "0.4.0"
+  sha256 "1fbfffe43aeaea8ce7e16bc5134242e30c57793332d0cc73471017818711e839"
 
   url "https://github.com/piro0919/macopy/releases/download/v#{version}/Macopy_#{version}_aarch64.dmg",
       verified: "github.com/piro0919/macopy/"
@@ -14,7 +14,7 @@ cask "macopy" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
 
   app "Macopy.app"
 
