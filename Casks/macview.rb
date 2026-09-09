@@ -1,6 +1,6 @@
 cask "macview" do
-  version "0.2.0"
-  sha256 "3bbc289df5867c96ac2f1e59f21f21a475b7d2014a746f44bc85d8b003b31a64"
+  version "0.2.1"
+  sha256 "1597698bb6c709238463b61622b4e2d9a27e5377c11f3e033625407f41fc588b"
 
   url "https://github.com/piro0919/macview/releases/download/v#{version}/Macview-#{version}.dmg"
   name "Macview"
