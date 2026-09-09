@@ -5,7 +5,7 @@ cask "macview" do
   url "https://github.com/piro0919/macview/releases/download/v#{version}/Macview-#{version}.dmg"
   name "Macview"
   desc "Image viewer where the window is the image"
-  homepage "https://github.com/piro0919/macview"
+  homepage "https://macview.kkweb.io"
 
   livecheck do
     url :url
