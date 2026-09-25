@@ -14,6 +14,7 @@ All of them are free, open source, and Apple Silicon only.
 | `chappie` | Hands-free voice AI assistant in the menu bar | [chappie](https://github.com/piro0919/chappie) |
 | `galopen` | Opens meeting URLs from your calendar | [galopen](https://github.com/piro0919/galopen) |
 | `gocci` | Mounts Google Drive in Finder | [gocci](https://github.com/piro0919/gocci) |
+| `hawky` | Shows when Claude Code is waiting for permission | [hawky](https://github.com/piro0919/hawky) |
 | `konechi` | Shows whether you are on Ethernet or Wi-Fi | [konechi](https://github.com/piro0919/konechi) |
 | `mac-classic-player` | Keyboard-driven media player | [mac-classic-player](https://github.com/piro0919/mac-classic-player) |
 | `macopy` | Minimal clipboard history | [macopy](https://github.com/piro0919/macopy) |
