@@ -1,6 +1,6 @@
 cask "hawky" do
-  version "0.1.3"
-  sha256 "908466e6385802f613c7febf5ce6a4a1b18462e7c35b6c41bc4cccfb29852e11"
+  version "0.1.4"
+  sha256 "3d2594f3559f79c31552419d9b68aa7f441a8b8e13781cef6c99484b2fb56589"
 
   url "https://github.com/piro0919/hawky/releases/download/v#{version}/Hawky-#{version}.dmg"
   name "Hawky"
