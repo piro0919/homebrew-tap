@@ -2,8 +2,7 @@ cask "chappie" do
   version "0.23.0"
   sha256 "5ae4bc86bf8a9840a0fa0fef985076383e12bc6c6c4f1c2f24eae84e0e0da7b2"
 
-  url "https://github.com/piro0919/chappie/releases/download/v#{version}/Chappie_#{version}_aarch64.dmg",
-      verified: "github.com/piro0919/chappie/"
+  url "https://github.com/piro0919/chappie/releases/download/v#{version}/Chappie_#{version}_aarch64.dmg"
   name "Chappie"
   desc "Hands-free voice AI assistant that lives in the menu bar"
   homepage "https://chappie.kkweb.io"
@@ -15,7 +14,7 @@ cask "chappie" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: :big_sur
+  depends_on :macos
 
   app "Chappie.app"
 
