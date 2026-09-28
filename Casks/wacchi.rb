@@ -1,6 +1,6 @@
 cask "wacchi" do
-  version "0.1.2"
-  sha256 "0d9d57bf9f7b5625437b5ea00f912331ffeb40f38507d854c9e0d6aa5054a116"
+  version "0.1.3"
+  sha256 "56f26c40be6e618cb550a9b1868704a132d62a23c4ed3ac184fe4b1065608936"
 
   url "https://github.com/piro0919/wacchi/releases/download/v#{version}/Wacchi-#{version}.dmg"
   name "Wacchi"
