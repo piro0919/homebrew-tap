@@ -3,9 +3,14 @@
 Homebrew casks for my macOS apps.
 
 ```sh
-brew tap piro0919/tap
-brew install --cask mac-classic-player
+brew install --cask piro0919/tap/mac-classic-player
 ```
+
+Use the full `piro0919/tap/<cask>` name. Since Homebrew 6, casks from third-party
+taps are refused unless they are trusted, and installing by the full name trusts
+that one cask. `brew tap piro0919/tap` followed by `brew install --cask <cask>`
+fails with "Refusing to load cask ... from untrusted tap". If you already tapped
+it that way, `brew trust --cask piro0919/tap/<cask>` fixes it.
 
 All of them are free, open source, and Apple Silicon only.
 
