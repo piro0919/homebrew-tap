@@ -21,6 +21,7 @@ All of them are free, open source, and Apple Silicon only.
 | `mekuri` | Comic reader for archives and image folders | [mekuri](https://github.com/piro0919/mekuri) |
 | `nonja` | Quiet inbox for macOS notifications | [nonja](https://github.com/piro0919/nonja) |
 | `okigae` | Swaps menu bar icons for character artwork | [okigae](https://github.com/piro0919/okigae) |
+| `wacchi` | Shows how many watts your Mac is drawing from its charger | [wacchi](https://github.com/piro0919/wacchi) |
 
 These aren't in homebrew/cask itself — none of the repositories clear its
 notability bar yet — so the tap is the way to get them through `brew` for now.
