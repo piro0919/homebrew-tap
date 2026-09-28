@@ -1,6 +1,6 @@
 cask "okigae" do
-  version "0.2.0"
-  sha256 "e1783e1c1dd41745edcc5e824713937cee7dc13d4c94a5ee203d77792faa4444"
+  version "0.2.1"
+  sha256 "0aa227e7df57fc99fbf2d80f968d2c6308868b7833bcb7523583f0fa814db7db"
 
   url "https://github.com/piro0919/okigae/releases/download/v#{version}/Okigae-#{version}.dmg"
   name "Okigae"

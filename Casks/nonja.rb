@@ -1,6 +1,6 @@
 cask "nonja" do
-  version "0.2.4"
-  sha256 "31c6374160ab10e4671642b8f636d2cad40df6b8886347d99f3e33269de288a8"
+  version "0.2.5"
+  sha256 "734bb440f446088360ed819713b369f905458d6a6dc7fd1dfb89b945f88c5a8c"
 
   url "https://github.com/piro0919/nonja/releases/download/v#{version}/Nonja-#{version}.dmg"
   name "Nonja"
