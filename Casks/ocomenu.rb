@@ -1,6 +1,6 @@
 cask "ocomenu" do
-  version "0.1.2"
-  sha256 "8558e642135a3933c623cd6ab6575cb6eac75aef358664da5da9d7ecb9e9da3f"
+  version "0.1.3"
+  sha256 "fbcf679872d91e1a69d9dfffde5a2f60a3a7d2ee04f7afa931a1c0e9e979f3b0"
 
   url "https://github.com/piro0919/ocomenu/releases/download/v#{version}/Ocomenu-#{version}.dmg"
   name "Ocomenu"
