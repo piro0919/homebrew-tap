@@ -1,6 +1,6 @@
 cask "konechi" do
-  version "0.1.3"
-  sha256 "10039ec1ccbee352fa34d1f6c793d9268cfe76b7a1ae0691f28e10e308b37267"
+  version "0.1.4"
+  sha256 "99e1a27680cf389da67bdc60675ceeb906515727c33b0e0dae5acb2c4677ff4b"
 
   url "https://github.com/piro0919/konechi/releases/download/v#{version}/Konechi-#{version}.dmg"
   name "Konechi"
