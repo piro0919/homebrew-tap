@@ -5,7 +5,7 @@ cask "owler" do
   url "https://github.com/piro0919/owler/releases/download/v#{version}/Owler-#{version}.dmg"
   name "Owler"
   desc "Keeps an eye on launchd jobs and opens any run in Claude Code"
-  homepage "https://github.com/piro0919/owler"
+  homepage "https://owler.kkweb.io/"
 
   livecheck do
     url :url
