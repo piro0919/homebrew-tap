@@ -1,6 +1,6 @@
 cask "vstats" do
-  version "0.1.0"
-  sha256 "8d27e59371a44e4102e3fbaf574f14bffc038dd2470f89abe96abfbea0371808"
+  version "0.2.0"
+  sha256 "059594aac5aef6983f91e844a497145705d66d343b6a4723ef7b682395cc9951"
 
   url "https://github.com/piro0919/vstats/releases/download/v#{version}/VStats-#{version}.dmg"
   name "VStats"
