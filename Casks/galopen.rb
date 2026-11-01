@@ -1,6 +1,6 @@
 cask "galopen" do
-  version "0.8.0"
-  sha256 "45c02649200669e5616b9f623939f12126d5960a26db685664b70051ad4569bf"
+  version "0.8.1"
+  sha256 "62005958ad96d75ac7cd37f8a3ade46e03e59aef9c99c3a0e8cd7974df1af3eb"
 
   url "https://github.com/piro0919/galopen/releases/download/v#{version}/Galopen_#{version}_aarch64.dmg"
   name "Galopen"
