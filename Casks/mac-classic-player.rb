@@ -1,6 +1,6 @@
 cask "mac-classic-player" do
-  version "0.4.1"
-  sha256 "df457cf33ca97e62a7d750933968afcba3e4e3e0a8bb05b81324be5550274318"
+  version "0.4.2"
+  sha256 "50803f7c365a2f8abab5d1502894dc68fc48747af4d7ca450b3f911640b70722"
 
   url "https://github.com/piro0919/mac-classic-player/releases/download/v#{version}/Mac.Classic.Player_#{version}_aarch64.dmg"
   name "Mac Classic Player"
