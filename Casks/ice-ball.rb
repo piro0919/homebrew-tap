@@ -5,7 +5,7 @@ cask "ice-ball" do
   url "https://github.com/piro0919/ice-ball/releases/download/v#{version}/IceBall-#{version}.dmg"
   name "Ice Ball"
   desc "Changes how the menu bar looks with a transparent, click-through overlay"
-  homepage "https://github.com/piro0919/ice-ball"
+  homepage "https://ice-ball.kkweb.io"
 
   livecheck do
     url :url
