@@ -1,6 +1,6 @@
 cask "gocci" do
-  version "1.1.5"
-  sha256 "4300efbce4d02a6f898204560022ba855106d1ddff5058245e08253333b873cd"
+  version "1.1.6"
+  sha256 "ed5e7b1b1f6d1f9e50967091a05ff609bba6bafd1b21702aa62ca4ddd388f148"
 
   url "https://github.com/piro0919/gocci/releases/download/v#{version}/Gocci-#{version}.dmg"
   name "Gocci"
