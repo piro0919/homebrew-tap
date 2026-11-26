@@ -1,6 +1,6 @@
 cask "owler" do
-  version "0.1.22"
-  sha256 "67e9fc7e182be0c675d1b9b77ae7c1fb899873c611a97623815cc24f38a2bcad"
+  version "0.1.23"
+  sha256 "29d2fde1f0aa74472281d4760e6b438f9b7265978cb028569d6f5369d94dbfb1"
 
   url "https://github.com/piro0919/owler/releases/download/v#{version}/Owler-#{version}.dmg"
   name "Owler"
