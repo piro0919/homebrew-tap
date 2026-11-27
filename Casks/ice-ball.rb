@@ -1,6 +1,6 @@
 cask "ice-ball" do
-  version "0.1.3"
-  sha256 "369c84b4b9ffb51ef0285255eaf5242355da65a5c6f059e398d61994a5b21b4b"
+  version "0.1.4"
+  sha256 "14d5854c1138bf79eb0ccb54759e5f07ddaa4563eb1c65ecd01de08d67431354"
 
   url "https://github.com/piro0919/ice-ball/releases/download/v#{version}/IceBall-#{version}.dmg"
   name "Ice Ball"
